@@ -1,4 +1,3 @@
-## Introduction:
 Hello! 👋 
 My name is Tayvor! 
 ## Stats!
