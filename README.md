@@ -31,8 +31,6 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tayvor&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tayvor&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 - Currently developing [Findex](https://github.com/Tayvor/Findex)!
 - When I am not coding, I'm hanging out with my cats, or admiring my fish!
