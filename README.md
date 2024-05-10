@@ -16,7 +16,6 @@
 ## Stats!
 [![Tayvor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tayvor&hide=contribs,stars&theme=dark)](https://github.com/Tayvor/github-readme-stats)
 
-- I can be reached on [LinkedIn](https://www.linkedin.com/in/tayvor-beck-8792a12b9/)
 - Currently developing [Findex](https://github.com/Tayvor/Findex)!
 - When I am not coding, I'm hanging out with my cats, or admiring my fish!
 
