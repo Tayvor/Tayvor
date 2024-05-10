@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnFxbHI1c2w4NHh1bzZyd3Jwc241MWxhcmlrOWhnbzg1azlmYXNpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11ZSwQNWba4YF2/giphy.gif" width="100"/>
 
   <div id="badges">
   <a href="[LinkedIn](https://www.linkedin.com/in/tayvor/)">
