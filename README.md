@@ -4,10 +4,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
-<h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  
 </div>
 
 ---
@@ -37,7 +34,3 @@
 - [X] Learn Python, JavaScript, React, Redux, Flask, PostgresQL, and more!
 - [X] Graduate from App Academy's full-stack Bootcamp!
 - [ ] Code forever!
-
-  
-### Thanks for checking out my GitHub profile!
-
