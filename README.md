@@ -27,8 +27,6 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tayvor&theme=dark&background=000000)](https://git.io/streak-stats)
 
-- Currently developing [Findex](https://github.com/Tayvor/Findex)!
-- When I am not coding, I'm hanging out with my cats, or admiring my fish!
 
 ## To-Do's
 - [X] Learn Python, JavaScript, React, Redux, Flask, PostgresQL, and more!
